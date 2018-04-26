@@ -2,4 +2,5 @@ gerbers: gerbers
 site: http://davidjwatts.com/binary-crap-clock/
 summary: It's a crap clock! It runs with the magic of CMOS
 bom: bom/bom.tsv
+color: black
 
