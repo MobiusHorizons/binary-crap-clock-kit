@@ -1,0 +1,16 @@
+References	Qty	Description	Manufacturer	Part Number	Digikey	Mouser	RS	Newark	Farnell
+S2, S3, S5	3	OMRON SWITCH B3F-10XX	Omron	B3F-1000	SW400-ND				
+LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED13, LED14, LED17, LED18, LED19, LED20, LED22, LED23, LED24	20	LED	Cree	C513A-WSS-CX0Z0231	C513A-WSS-CX0Z0231-ND				
+C3, C4, C5, C6, C7, C8	6	Through-hole capacitor 100nf	KEMET	C322C104K5R5TA	399-4329-ND				
+R24, R25, R26, R27, R28	5	10k RESISTOR 0805	Bourns Inc.	CR0805-FX-1002ELF	CR0805-FX-1002ELFCT-ND				
+C10	1	Through-hole capacitor 10uf	Panasonic	ECE-A1EKA100	P813-ND				
+D1, D2, D3, D4	4	1.0A SCHOTTKY BARRIER RECTIFIER	Diodes Incorporated	1N5817-B	1N5817-BDI-ND				
+Q1	1	CRYSTAL 32.768 khz	Abracon LLC	AB38T-32.768KHZ	535-9034-ND				
+R3	1	RESISTOR, 330k							
+C1, C2	2	CAPACITOR, European symbol							
+IC11	1	Dual JK FLIP FLOP							
+IC10	1	14-stage binary/ripple COUNTER							
+IC12		Quad 2-input AND							
+IC1, IC3, IC4, IC6, IC7, IC8	6	BCD up down COUNTER							
+R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23	20	RESISTOR, European symbol							
+R1, R2	2	RESISTOR, European symbol							
